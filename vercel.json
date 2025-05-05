@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://bmstecnologia.atlassian.net/servicedesk/customer/portal/3",
+      "permanent": true
+    }
+  ]
+}
